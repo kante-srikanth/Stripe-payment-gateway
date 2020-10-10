@@ -1,6 +1,6 @@
 # Stripe payment gateway
 
-> Payment gateway service built using Stripe
+_Payment gateway service built using Stripe_
 
 ## Tech stack:
 
